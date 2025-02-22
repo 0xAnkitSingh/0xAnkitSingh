@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 💡 Working on **GenAI** applications, focusing on **LLMs, RAG-based systems, and fine-tuning models**  
-- 🛠️ Experienced in **building and evaluating RAG pipelines** using **RAGFlow, Verba, and DocETL**  
+- 🛠️ Experienced in **building and evaluating RAG pipelines**   
 - 🧠 Enthusiastic about **LLM fine-tuning**, **prompt engineering**, and **multi-modal AI**  
 - 💻 Full Stack Developer proficient in **Next.js, React, Node.js, Express, and Flask**  
 - 🔍 Currently designing a **customizable RAG evaluation pipeline** to compare open-source RAG models  
