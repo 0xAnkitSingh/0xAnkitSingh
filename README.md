@@ -1,118 +1,61 @@
-# 🚀 AI Engineer | Building Tomorrow's Intelligence Today
+# Ankit Singh
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  "Transforming complex problems into intelligent solutions"  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**AI Engineer at Siemens** | Bangalore, India
 
-## 👨‍💻 About Me
+## About
 
-Currently architecting the future of AI at **Siemens** in Bangalore, where I bridge the gap between cutting-edge research and real-world industrial applications. With a strong foundation in Computer Science from **NIT Meghalaya**, I'm passionate about pushing the boundaries of artificial intelligence.
+I'm an AI Engineer at Siemens, focusing on developing and deploying intelligent systems for industrial applications. I hold a B.Tech in Computer Science Engineering from the National Institute of Technology Meghalaya.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "AI Engineer @ Siemens"
-        self.location = "Bangalore, India 🇮🇳"
-        self.education = "B.Tech CSE - NIT Meghalaya"
-        self.passion = ["GenAI", "LLMs", "Multi-Agent Systems"]
-        
-    def current_focus(self):
-        return [
-            "🧠 Generative AI Applications",
-            "🤖 Large Language Model Engineering", 
-            "🔄 Multi-Agentic System Architecture",
-            "⚙️ Industrial AI Solutions"
-        ]
-        
-    def daily_routine(self):
-        return "Build → Test → Deploy → Innovate → Repeat"
-```
+My work centers on building practical AI solutions that solve real-world problems, with particular expertise in Generative AI, Large Language Models, and Multi-Agent Systems.
 
-## 🎯 What I'm Working On
+## Current Focus
 
-**🔬 Research & Development**
-- Exploring novel architectures for multi-agent collaboration
-- Optimizing LLM performance for industrial use cases
-- Developing AI solutions that scale across enterprise environments
+- **Generative AI**: Developing enterprise-grade generative AI applications
+- **Large Language Models**: Engineering and fine-tuning LLMs for specific use cases
+- **Multi-Agent Systems**: Designing collaborative AI architectures
+- **Industrial AI**: Implementing AI solutions in manufacturing and industrial environments
 
-**💡 Innovation Focus**
-- Bridging the gap between academic research and production systems
-- Creating AI tools that enhance human productivity
-- Building robust, reliable AI systems for critical applications
+## Technical Expertise
 
-## 🛠️ Tech Arsenal
+**AI/ML Technologies**
+- PyTorch, TensorFlow, Transformers, Hugging Face
+- LangChain, LlamaIndex, OpenAI API
+- MLOps with MLflow, Docker, Kubernetes
+- Vector databases and retrieval systems
 
-**AI/ML Stack**
-```
-🧮 Frameworks: PyTorch, TensorFlow, Transformers, LangChain
-🔧 MLOps: MLflow, Kubeflow, Docker, Kubernetes  
-☁️ Cloud: AWS, Azure, GCP
-💾 Databases: Vector DBs, PostgreSQL, MongoDB
-🔗 APIs: OpenAI, Anthropic, Hugging Face
-```
+**Programming & Tools**
+- Python, Java, JavaScript
+- Cloud platforms: AWS, Azure, GCP
+- Database systems: PostgreSQL, MongoDB
+- DevOps and system architecture
 
-**Core Technologies**
-```
-🐍 Python | ☕ Java | 🌐 JavaScript | 🦀 Rust
-📊 Data Science | 🏗️ System Design | 🔄 DevOps
-```
+## Education
 
-## 📈 Current Learning Path
+**National Institute of Technology Meghalaya**  
+Bachelor of Technology in Computer Science Engineering
 
-```mermaid
-graph LR
-    A[Multi-Agent Systems] --> B[Advanced RAG]
-    B --> C[LLM Fine-tuning]
-    C --> D[Edge AI Deployment]
-    D --> E[AI Safety & Ethics]
-```
+## Professional Experience
 
-## 🌟 Philosophy
+**AI Engineer - Siemens**  
+*Bangalore, India*
+- Developing AI-powered solutions for industrial automation
+- Working on multi-agent systems for complex problem-solving
+- Implementing machine learning models in production environments
 
-> *"The best AI systems are those that amplify human intelligence rather than replace it."*
+## Research Interests
 
-I believe in building AI that:
-- 🤝 Enhances human capabilities
-- 🔒 Prioritizes safety and ethics
-- 🌍 Solves real-world problems
-- 📈 Scales responsibly
+- Advancing the capabilities of multi-agent collaborative systems
+- Optimizing large language models for enterprise applications
+- Exploring the intersection of AI and industrial automation
+- Contributing to the development of safe and reliable AI systems
 
-## 🏆 Recent Achievements
+## Connect
 
-- 🎯 Successfully deployed multi-agent systems in production at Siemens
-- 🚀 Contributed to open-source AI/ML projects
-- 📝 Published research on industrial AI applications
-- 🗣️ Speaker at local AI meetups and conferences
-
-## 💬 Let's Connect
-
-Always excited to discuss AI, collaborate on interesting projects, or share insights about the future of technology!
-
-**💼 Professional**: [LinkedIn](https://linkedin.com/in/yourprofile)  
-**🐦 Thoughts**: [Twitter](https://twitter.com/yourhandle)  
-**✉️ Email**: your.email@domain.com
+- **LinkedIn**: [linkedin.com/in/ankit-singhin](https://www.linkedin.com/in/ankit-singhin/)
+- **GitHub**: [github.com/0xAnkitSingh](https://github.com/0xAnkitSingh)
+- **Twitter**: [x.com/0xAnkitSingh](https://x.com/0xAnkitSingh)
+- **Email**: singhankit1833@gmail.com
 
 ---
 
-```
-⚡ "Code is poetry, AI is the future, and together they create magic." ⚡
-```
-
-**📊 GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-**🔥 Contribution Streak**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-**💻 Most Used Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-*⭐ From [yourusername](https://github.com/yourusername) - Building the future, one algorithm at a time.*
+*Building intelligent systems that make a difference in the real world.*
