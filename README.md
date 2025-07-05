@@ -1,48 +1,118 @@
-<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">A Passionate Full Stack Developer & AI Enthusiast</h3>
+# 🚀 AI Engineer | Building Tomorrow's Intelligence Today
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit2533&label=Profile%20views&color=0e75b6&style=flat" alt="ankit2533" /> </p>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  "Transforming complex problems into intelligent solutions"  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### 🚀 About Me
-- 💡 Working on **GenAI** applications, focusing on **LLMs, RAG-based systems, and fine-tuning models**  
-- 🛠️ Experienced in **building and evaluating RAG pipelines**   
-- 🧠 Enthusiastic about **LLM fine-tuning**, **prompt engineering**, and **multi-modal AI**  
-- 💻 Full Stack Developer proficient in **Next.js, React, Node.js, Express, and Flask**  
-- 🔍 Currently designing a **customizable RAG evaluation pipeline** to compare open-source RAG models  
-- 📫 Reach me at **singhankit1833@gmail.com**  
+## 👨‍💻 About Me
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://twitter.com/ankit_s101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_s101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-singhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singhin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankits101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankits101" height="30" width="40" /></a>
-</p>
+Currently architecting the future of AI at **Siemens** in Bangalore, where I bridge the gap between cutting-edge research and real-world industrial applications. With a strong foundation in Computer Science from **NIT Meghalaya**, I'm passionate about pushing the boundaries of artificial intelligence.
 
-### 🛠️ Languages & Tools
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "AI Engineer @ Siemens"
+        self.location = "Bangalore, India 🇮🇳"
+        self.education = "B.Tech CSE - NIT Meghalaya"
+        self.passion = ["GenAI", "LLMs", "Multi-Agent Systems"]
+        
+    def current_focus(self):
+        return [
+            "🧠 Generative AI Applications",
+            "🤖 Large Language Model Engineering", 
+            "🔄 Multi-Agentic System Architecture",
+            "⚙️ Industrial AI Solutions"
+        ]
+        
+    def daily_routine(self):
+        return "Build → Test → Deploy → Innovate → Repeat"
+```
 
+## 🎯 What I'm Working On
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit2533&show_icons=true&theme=radical" alt="Ankit Singh's GitHub stats" />
-</p>
+**🔬 Research & Development**
+- Exploring novel architectures for multi-agent collaboration
+- Optimizing LLM performance for industrial use cases
+- Developing AI solutions that scale across enterprise environments
 
+**💡 Innovation Focus**
+- Bridging the gap between academic research and production systems
+- Creating AI tools that enhance human productivity
+- Building robust, reliable AI systems for critical applications
+
+## 🛠️ Tech Arsenal
+
+**AI/ML Stack**
+```
+🧮 Frameworks: PyTorch, TensorFlow, Transformers, LangChain
+🔧 MLOps: MLflow, Kubeflow, Docker, Kubernetes  
+☁️ Cloud: AWS, Azure, GCP
+💾 Databases: Vector DBs, PostgreSQL, MongoDB
+🔗 APIs: OpenAI, Anthropic, Hugging Face
+```
+
+**Core Technologies**
+```
+🐍 Python | ☕ Java | 🌐 JavaScript | 🦀 Rust
+📊 Data Science | 🏗️ System Design | 🔄 DevOps
+```
+
+## 📈 Current Learning Path
+
+```mermaid
+graph LR
+    A[Multi-Agent Systems] --> B[Advanced RAG]
+    B --> C[LLM Fine-tuning]
+    C --> D[Edge AI Deployment]
+    D --> E[AI Safety & Ethics]
+```
+
+## 🌟 Philosophy
+
+> *"The best AI systems are those that amplify human intelligence rather than replace it."*
+
+I believe in building AI that:
+- 🤝 Enhances human capabilities
+- 🔒 Prioritizes safety and ethics
+- 🌍 Solves real-world problems
+- 📈 Scales responsibly
+
+## 🏆 Recent Achievements
+
+- 🎯 Successfully deployed multi-agent systems in production at Siemens
+- 🚀 Contributed to open-source AI/ML projects
+- 📝 Published research on industrial AI applications
+- 🗣️ Speaker at local AI meetups and conferences
+
+## 💬 Let's Connect
+
+Always excited to discuss AI, collaborate on interesting projects, or share insights about the future of technology!
+
+**💼 Professional**: [LinkedIn](https://linkedin.com/in/yourprofile)  
+**🐦 Thoughts**: [Twitter](https://twitter.com/yourhandle)  
+**✉️ Email**: your.email@domain.com
+
+---
+
+```
+⚡ "Code is poetry, AI is the future, and together they create magic." ⚡
+```
+
+**📊 GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+**🔥 Contribution Streak**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+**💻 Most Used Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+*⭐ From [yourusername](https://github.com/yourusername) - Building the future, one algorithm at a time.*
